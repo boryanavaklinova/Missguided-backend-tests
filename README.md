@@ -1,8 +1,10 @@
 Project purpose:
+
 Testing Register, Login, Logout and Product details endpoints used in Missguided mobile application.
 
 
 Getting Started
+
 Steps: 
 1. Download Missguided-backend-tests repository.
 2. Open Postman. 
